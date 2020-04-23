@@ -1,7 +1,5 @@
 # UNO card game
 
-Currently running at http://40.127.69.20:8080/
-
 # Getting Started
 
 1. install nodejs
